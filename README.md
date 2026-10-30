@@ -41,3 +41,4 @@ This is an academic project. A real medical system would need far more data and 
 
 ## Author
 Aadi Nautiyal, SRM Institute of Science and Technology
+Arsh Pandey, SRM Institute of Science and Technology
