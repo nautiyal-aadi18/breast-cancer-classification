@@ -40,5 +40,4 @@ jupyter notebook cancer_classification.ipynb
 This is an academic project. A real medical system would need far more data and testing.
 
 ## Author
-Aadi Nautiyal, SRM Institute of Science and Technology
-Arsh Pandey, SRM Institute of Science and Technology
+Aadi Nautiyal, Arsh Pandey , SRM Institute of Science and Technology
